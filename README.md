@@ -2,7 +2,6 @@
 TechStack React-native program for Android or IOS. Just a simple project to try out Redux. Shows some basic info of useful coding. Made following Udemy's The Complete React Native and Redux Course.
 
 ## Setup
-    ## Setup
     #Install dependencies   
     npm install
 
