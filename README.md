@@ -1,5 +1,5 @@
 # TechStack
-TechStack React-native program for Android or IOS. Just a simple project to try out Redux. Shows some basic info of useful coding tools on phone's screen. Made following Udemy's The Complete React Native and Redux Course.
+TechStack React-native program for Android or IOS. Just a simple project to try out Redux. Shows some basic info of useful coding. Made following Udemy's The Complete React Native and Redux Course.
 
 ## Setup
 1. Clone project: git clone https://github.com/JesseRGit/techstack-react-native-project
