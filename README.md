@@ -5,7 +5,7 @@ TechStack React-native program for Android or IOS. Just a simple project to try 
 #Install dependencies   
 npm install
 
-#Open in Android Studio emulator:  
+#Open in Android Studio emulator   
 react-native run-android  
 or  
 react-native run-ios
